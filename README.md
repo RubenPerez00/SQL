@@ -1,12 +1,15 @@
 # 🚀 Proyecto SQL
 
-Este repositorio contiene el desarrollo completo, la metodología y el análisis de negocio derivados del entrenamiento avanzado en SQL utilizando la base de datos relacional **Sakila** en **PostgreSQL**.
+Este readme contiene el desarrollo completo, la metodología y los ejercicios resueltos de la BBDD de **Sakila** en **PostgreSQL**.
 
+--- 
 
 ## 📊 Tecnologías Utilizadas
 * **Motor de Base de Datos:** PostgreSQL 
 * **Lenguaje:** SQL
 * **Aplicación**: DBeaver
+
+---
 
 ## 🗂️ Contenido del Proyecto
 El script principal resuelve los ejercicios prácticos utilizando las siguientes técnicas:
@@ -19,15 +22,22 @@ El script principal resuelve los ejercicios prácticos utilizando las siguientes
 ---
 
 ## 🗺️ Esquema de la Base de Datos
-El proyecto se basa en el modelo real de una tienda que contempla las siguientes categorías:
+El proyecto se basa en el modelo real de una tienda que contempla las siguientes categorías, a su vez corresponde con el Ejercicio 1 : Crea el esquema de la BBDD.
 
 * **Inventario y Catálogo:** `film`, `category`, `film_category`, `inventory`.
 * **Actores y Producción:** `actor`, `film_actor`.
 * **Operaciones y Clientes:** `rental`, `payment`, `customer`, `staff`, `store`.
 
-<img width="1444" height="1292" alt="Diagrama Proyecto" src="https://github.com/user-attachments/assets/056a0655-28b1-4a77-8d2c-0ca56e13498f" />
+---
 
 ## 🛠️ Ejercicios Resueltos
+
+<details>
+<summary><b>Ejercicio 1:</b>  Crea el esquema de la BBDD.</summary>
+````
+<img width="1444" height="1292" alt="Diagrama Proyecto" src="https://github.com/user-attachments/assets/056a0655-28b1-4a77-8d2c-0ca56e13498f" />
+```
+</details>
 
 <details>
 <summary><b>Ejercicio 2:</b> Muestra los nombres de todas las películas con una clasificación por edades de ‘R’.</summary>
