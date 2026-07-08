@@ -1,4 +1,4 @@
-# 🚀 Proyecto SQL: Auditoría y Análisis de la BBDD Sakila
+# 🚀 Proyecto SQL: Análisis de la BBDD Sakila
 
 Este README contiene el desarrollo completo, la metodología, el informe ejecutivo y los ejercicios resueltos de la BBDD de **Sakila** en **PostgreSQL**.
 
